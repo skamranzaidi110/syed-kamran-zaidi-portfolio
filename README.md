@@ -71,3 +71,4 @@ if (!res.ok) throw new Error("Failed to send");
 This is a static Vite build — deploy the `/dist` folder to Netlify, Vercel, GitHub
 Pages, or any static host. For client-side routing (the `/work/:slug` case study
 routes) on a static host, configure a catch-all rewrite to `index.html`.
+Deployed via Vercel.
